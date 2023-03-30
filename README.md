@@ -1,2 +1,2 @@
 # ecommerce_website
- An e-commerce website built with AngularJS, Python/Flask, and PostgreSQL
+ An E-commerce website With Python built with AngularJS, Python/Flask, and PostgreSQL
